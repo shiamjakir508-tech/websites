@@ -1,12 +1,8 @@
-# User manual
+# User manuatigar]
 
-[[toc]]
+## Start ShizukuipadviwShizukuku supports startup in the following three ways.
 
-## Start Shizuku
-
-Shizuku supports startup in the following three ways.
-
-::: tip If you are using GrapheneOS
+::: tip If you are using GusingneOS
 
 System settings - "Security" - "Secure app spawning" may need to be disabled.
 
